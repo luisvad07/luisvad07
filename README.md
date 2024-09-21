@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hola 👋
 
-<!--
-**luisvad07/luisvad07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me llamo Luis Eduardo Bahena Castillo ✝️💜     
 
-Here are some ideas to get you started:
+Soy Mexicano 🇲🇽, de Cuernavaca Morelos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tengo 21 años, Nací el 1-Junio-2003 ♊          
+
+  - Soy Técnico en Programación del Centro de Estudios Tecnológicos Industrial y de Servicios No.44
+  - Soy Técnico Superior Universitario en Desarrollo de Software Multiplataforma de la Universidad Tecnológica de Emiliano Zapata
+  - Estudio actualmente la Ingeniería en Desarrollo y Gestión del Software 
+
+Lenguajes de Programación: Java, JavaScript, Python, R, SQL, NoSQL, C++, Kotlin y PHP 🖥️
+Frameworks: React JS/Native, NodeJS, VueJS, Spring y Laravel
+
+Te quiero mucho The Weeknd 🎧✝️💜, Chivas 🇲🇽, Liverpool 🏴󠁧󠁢󠁥󠁮󠁧󠁿 y Real Valladolid 🇪🇸
+
+Trabajando en Imagen Social
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisVad&theme=gruvbox&layout=donut)](https://github.com/LuisVad/github-readme-stats)
