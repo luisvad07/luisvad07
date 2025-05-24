@@ -18,5 +18,5 @@ Te quiero mucho The Weeknd 🎧✝️💜, Chivas 🇲🇽, Liverpool 🏴󠁧�
 
 Trabajando en SEMICMEXPF
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisVad&theme=gruvbox&layout=donut)](https://github.com/LuisVad/github-readme-stats)
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisVad&theme=gruvbox&layout=donut)](https://github.com/LuisVad/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisVad&theme=gruvbox&layout=donut)](https://github.com/luisvad07/github-readme-stats)
