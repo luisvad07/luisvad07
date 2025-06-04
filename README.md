@@ -1,25 +1,58 @@
-## Hola 👋
+# 👋 Hola, soy Luis Eduardo Bahena Castillo
 
-Mi nombre es Luis Eduardo Bahena Castillo ✝️💜     
+## 💻 Desarrollador de Software | 🇲🇽 Mexicano | ✝️💜 Amante de Dios y la música
 
-Mexicano 🇲🇽 
+📍 Cuernavaca, Morelos  
+🎂 22 años (1 de junio de 2003) ♊  
+🏢 Actualmente trabajando en **SEMICMEXPF**
 
-Cuernavaca, Mor.
+---
 
-22 años (1-Junio-2003) ♊          
+### 🎓 Educación
 
-  - Técnico en Programación del Centro de Estudios Tecnológicos Industrial y de Servicios No.44
-  - Técnico Superior Universitario en Desarrollo de Software Multiplataforma de la Universidad Tecnológica de Emiliano Zapata
-  - Ingeniería en Desarrollo y Gestión del Software
-  - Trabajando actualmente en SEMICMEXPF
+- 🎓 Técnico en Programación — *CETis No. 44*
+- 💻 Técnico Superior Universitario en Desarrollo de Software Multiplataforma — *UTEZ*
+- 🧠 Ingeniería en Desarrollo y Gestión del Software — *En curso*
 
-Lenguajes de Programación: Java, JavaScript, Python, R, SQL, NoSQL, C++, Kotlin y PHP 🖥️
+---
 
-Bases de Datos: MySQL, PostgreSQL y MongoDB
+### 🧠 Tecnologías y Herramientas
 
-Frameworks: React JS/Native, NodeJS, VueJS, Spring y Laravel
+#### 👨‍💻 Lenguajes de Programación
+`Java` | `JavaScript` | `Python` | `R` | `SQL` | `NoSQL` | `C++` | `Kotlin` | `PHP`
 
-Te quiero mucho The Weeknd 🎧✝️💜, Chivas 🇲🇽, Liverpool 🏴󠁧󠁢󠁥󠁮󠁧󠁿 y Real Valladolid 🇪🇸
+#### 🗄️ Bases de Datos
+`MySQL` | `PostgreSQL` | `MongoDB`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisVad&theme=gruvbox&layout=donut)](https://github.com/LuisVad/github-readme-stats)
+#### ⚙️ Frameworks y Librerías
+`React JS / Native` | `Node.js` | `Vue.js` | `Spring` | `Laravel`
 
+---
+
+### 💜 Pasiones Personales
+
+🎧 Fan de **The Weeknd**  
+⚽ Aficionado de **Chivas 🇲🇽**, **Liverpool 🏴**, y **Real Valladolid 🇪🇸**
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisvad07&theme=gruvbox&layout=donut)](https://github.com/luisvad07)
+
+[![LuisVad07's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisvad07&show_icons=true&theme=gruvbox)](https://github.com/luisvad07)
+
+</div>
+
+---
+
+### 📫 Contáctame
+
+- ✉️ [luiseduardobahenacastillo007@gmail.com](mailto:luiseduardobahenacastillo007@gmail.com)
+<!-- - 💼 [LinkedIn (si tienes, dime y lo agregamos)] -->
+
+---
+
+> "La tecnología mueve el mundo, pero la pasión lo dirige."
