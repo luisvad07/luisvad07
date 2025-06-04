@@ -1,6 +1,6 @@
 # 👋 Hola, soy Luis Eduardo Bahena Castillo
 
-## 💻 Desarrollador de Software | 🇲🇽 Mexicano | ✝️💜 Amante de Dios y la música
+## 💻 Desarrollador de Software | 🇲🇽 Mexicano | ✝️💜
 
 📍 Cuernavaca, Morelos  
 🎂 22 años (1 de junio de 2003) ♊  
