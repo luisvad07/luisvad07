@@ -12,7 +12,7 @@
 
 - 🎓 Técnico en Programación — *CETis No. 44*
 - 💻 Técnico Superior Universitario en Desarrollo de Software Multiplataforma — *UTEZ*
-- 🧠 Ingeniería en Desarrollo y Gestión del Software — *En curso*
+- 🧠 Ingeniería en Desarrollo y Gestión del Software — *UTEZ*
 
 ---
 
