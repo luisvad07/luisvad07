@@ -19,13 +19,13 @@
 ### 🧠 Tecnologías y Herramientas
 
 #### 👨‍💻 Lenguajes de Programación
-`Java` | `JavaScript` | `Python` | `R` | `SQL` | `NoSQL` | `C++` | `Kotlin` | `PHP`
+`Java` | `JavaScript` | `Python` | `Dart` | `R` | `SQL` | `NoSQL` | `C++` | `Kotlin` | `PHP`
 
 #### 🗄️ Bases de Datos
 `MySQL` | `PostgreSQL` | `MongoDB`
 
 #### ⚙️ Frameworks y Librerías
-`React JS / Native` | `Node.js` | `Vue.js` | `Spring` | `Laravel`
+`React JS / Native` | `Node.js` | `Vue.js` | `Spring` | `Laravel` | `Flutter`
 
 ---
 
