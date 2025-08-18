@@ -19,7 +19,7 @@
 ### 🧠 Tecnologías y Herramientas
 
 #### 👨‍💻 Lenguajes de Programación
-`Java` | `JavaScript` | `Python` | `Dart` | `R` | `SQL` | `NoSQL` | `C++` | `Kotlin` | `PHP`
+`Java` | `JavaScript` | `Python` | `Dart` | `R` | `SQL` | `NoSQL` | `C++` | `C#` | `Kotlin` | `PHP`
 
 #### 🗄️ Bases de Datos
 `MySQL` | `PostgreSQL` | `MongoDB`
