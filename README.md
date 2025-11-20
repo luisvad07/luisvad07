@@ -32,11 +32,18 @@
 ### 💜 Pasiones Personales
 
 🎧 Mi Top 10 de artistas
-- 1. **The Weeknd**
-- 2. **Kendrick Lamar**
-- 3. **Bad Bunny**
+- **The Weeknd**
+- **Kendrick Lamar**
+- **Bad Bunny**
+- **Future**
+- **Playboi Carti**
+- **Stromae**
+- **Paulo Londra**
+- **Tyler, The Creator**
+- **Maluma**
+- **Jhayco**
 
-⚽ Aficionado de **Chivas 🇲🇽**, **Liverpool 🏴**, y **Real Valladolid 🇪🇸**
+⚽ **Chivas**, **Real Valladolid**, **Liverpool** y **AC Milan**
 
 ---
 
