@@ -31,7 +31,11 @@
 
 ### 💜 Pasiones Personales
 
-🎧 Fan de **The Weeknd**  
+🎧 Mi Top 10 de artistas
+- 1. **The Weeknd**
+- 2. **Kendrick Lamar**
+- 3. **Bad Bunny**
+
 ⚽ Aficionado de **Chivas 🇲🇽**, **Liverpool 🏴**, y **Real Valladolid 🇪🇸**
 
 ---
