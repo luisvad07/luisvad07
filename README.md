@@ -11,7 +11,7 @@
   <a href="mailto:luiseduardobahenacastillo007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  </div>
+</div>
 
 ---
 
@@ -70,7 +70,7 @@
     </td>
     <td align="center" width="100">
       <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/Real_Valladolid_CF_crest.svg" alt="Real Valladolid" width="60"/>
-      <br/>Valladolid
+      <br/> Real Valladolid
     </td>
     <td align="center" width="100">
       <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png" alt="Liverpool" width="55"/>
@@ -80,31 +80,33 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1200px-Logo_of_AC_Milan.svg.png" alt="AC Milan" width="55"/>
       <br/>AC Milan
     </td>
+    <td align="center" width="100">
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Yokohama_F_Marinos_logo.svg/250px-Yokohama_F_Marinos_logo.svg.png" alt="AC Milan" width="55"/>
+      <br/>Yokohama F Marinos
+    </td>
   </tr>
 </table>
 
-#### 🎧 En mis audífonos
+#### 🎧 Mi Actividad en Spotify
+
 <div align="center">
-  <img src="http://localhost:5001/spotify/now-playing.svg" width="350">
+  <table border="0">
+    <tr>
+      <td align="center" valign="top" width="50%">
+        <b>En reproducción</b><br/><br/>
+        <a href="https://spotify-api-k5wc.onrender.com">
+          <img src="https://spotify-api-k5wc.onrender.com/spotify/now-playing.svg" width="300" alt="Now Playing">
+        </a>
+      </td>
+      <td align="center" valign="top" width="50%">
+        <b>Artistas Top</b><br/><br/>
+        <a href="https://spotify-api-k5wc.onrender.com">
+           <img src="https://spotify-api-k5wc.onrender.com/spotify/top-artists.svg" width="300" alt="Top Artists">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
-
-
-<details>
-  <summary><b>🎵 Ver mi Top 10 Artistas</b></summary>
-  <br/>
-  <ol>
-    <li><b>The Weeknd</b></li>
-    <li><b>Kendrick Lamar</b></li>
-    <li><b>Bad Bunny</b></li>
-    <li><b>Future</b></li>
-    <li><b>Playboi Carti</b></li>
-    <li><b>Stromae</b></li>
-    <li><b>Paulo Londra</b></li>
-    <li><b>Tyler, The Creator</b></li>
-    <li><b>Maluma</b></li>
-    <li><b>Jhayco</b></li>
-  </ol>
-</details>
 
 ---
 
