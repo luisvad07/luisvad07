@@ -112,7 +112,7 @@
   <div style="margin-bottom: 15px;">
     <b>🔴 En reproducción</b>
     <br/><br/>
-    <img src="https://spotify-api-k5wc.onrender.com/spotify/now-playing.svg" width="350" alt="Now Playing" />
+    <img src="https://spotify-api-k5wc.onrender.com/spotify/now-playing.svg?v=1" width="350" alt="Now Playing" />
   </div>
 
   <br/>
@@ -121,7 +121,7 @@
   <div>
     <b>🏆 Mis Artistas Favoritos</b>
     <br/><br/>
-    <img src="https://spotify-api-k5wc.onrender.com/spotify/top-artists.svg" alt="Top Artists" />
+    <img src="https://spotify-api-k5wc.onrender.com/spotify/top-artists.svg?v=1" alt="Top Artists" />
   </div>
 </div>
 
