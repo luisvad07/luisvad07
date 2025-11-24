@@ -123,7 +123,7 @@
   <div>
     <b>🏆 Mis Artistas Favoritos</b>
     <br/><br/>
-    <img src="https://spotify-api-k5wc.onrender.com/spotify/top-artists.svg?=v2" alt="Top Artists" />
+    <img src="https://spotify-api-k5wc.onrender.com/spotify/top-artists.svg?v=1" alt="Top Artists" />
   </div>
 </div>
 
