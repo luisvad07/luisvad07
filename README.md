@@ -85,7 +85,7 @@
   <div align="center">
     <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/Real_Valladolid_CF_crest.svg" height="60" alt="Real Valladolid"/>
     <br/><br/>
-    <img src="https://img.shields.io/badge/La_Liga-Valladolid-58165F?style=flat-square&logo=la-liga&logoColor=white" />
+    <img src="https://img.shields.io/badge/La_Liga-Real_Valladolid-58165F?style=flat-square&logo=la-liga&logoColor=white" />
   </div>
   <br/><br/>
   <div align="center">
@@ -109,7 +109,7 @@
   <div align="center">
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Yokohama_F_Marinos_logo.svg/250px-Yokohama_F_Marinos_logo.svg.png" height="60" alt="Yokohama FM"/>
     <br/><br/>
-    <img src="https://img.shields.io/badge/J1_League-Yokohama-00388F?style=flat-square&logo=j-league&logoColor=white" />
+    <img src="https://img.shields.io/badge/J1_League-Yokohama_F_Marinos-00388F?style=flat-square&logo=j-league&logoColor=white" />
   </div>
 
 </div>
