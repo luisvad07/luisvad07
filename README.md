@@ -26,11 +26,34 @@
 
 ### 🎓 Educación
 
-| Nivel | Título | Institución |
-| :---: | :---: | :---: |
-| 🏛️ **Ingeniería** | Desarrollo y Gestión del Software | *UTEZ* |
-| 💻 **TSU** | Desarrollo de Software Multiplataforma | *UTEZ* |
-| 🎓 **Técnico** | Técnico en Programación | *CETis No. 44* |
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th align="center">Nivel</th>
+        <th align="center">Título</th>
+        <th align="center">Institución</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">🏛️ <strong>Ingeniería</strong></td>
+        <td align="center">Desarrollo y Gestión del Software</td>
+        <td align="center"><em>UTEZ</em></td>
+      </tr>
+      <tr>
+        <td align="center">💻 <strong>TSU</strong></td>
+        <td align="center">Desarrollo de Software Multiplataforma</td>
+        <td align="center"><em>UTEZ</em></td>
+      </tr>
+      <tr>
+        <td align="center">🎓 <strong>Técnico</strong></td>
+        <td align="center">Técnico en Programación</td>
+        <td align="center"><em>CETis No. 44</em></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ---
 
@@ -74,47 +97,46 @@
 
 #### ⚽ Mis Equipos
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  
-  <div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_del_Club_Deportivo_Guadalajara_%28M%C3%A9xico%29.svg" height="60" alt="Chivas"/>
-    <br/><br/>
-    <img src="https://img.shields.io/badge/Liga_MX-Chivas-E31B23?style=flat-square&logo=cd-guadalajara&logoColor=white" />
-  </div>
-  <br/><br/>
-  <div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/Real_Valladolid_CF_crest.svg" height="60" alt="Real Valladolid"/>
-    <br/><br/>
-    <img src="https://img.shields.io/badge/La_Liga-Real_Valladolid-58165F?style=flat-square&logo=la-liga&logoColor=white" />
-  </div>
-  <br/><br/>
-  <div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png" height="60" alt="Liverpool"/>
-    <br/><br/>
-    <img src="https://img.shields.io/badge/Premier_League-Liverpool-C8102E?style=flat-square&logo=liverpool&logoColor=white" />
-  </div>
-  <br/><br/>
-  <div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1200px-Logo_of_AC_Milan.svg.png" height="60" alt="AC Milan"/>
-    <br/><br/>
-    <img src="https://img.shields.io/badge/Serie_A-AC_Milan-FB090B?style=flat-square&logo=ac-milan&logoColor=black" />
-  </div>
-  <br/><br/>
-  <div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Sport_Club_Corinthians_Paulista_crest.svg/960px-Sport_Club_Corinthians_Paulista_crest.svg.png" height="60" alt="Corinthians"/>
-    <br/><br/>
-    <img src="https://img.shields.io/badge/Brasileirão-Corinthians-000000?style=flat-square&logo=corinthians&logoColor=white" />
-  </div>
-  <br/><br/>
-  <div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Yokohama_F_Marinos_logo.svg/250px-Yokohama_F_Marinos_logo.svg.png" height="60" alt="Yokohama FM"/>
-    <br/><br/>
-    <img src="https://img.shields.io/badge/J1_League-Yokohama_F_Marinos-00388F?style=flat-square&logo=j-league&logoColor=white" />
-  </div>
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_del_Club_Deportivo_Guadalajara_%28M%C3%A9xico%29.svg" height="60" alt="Chivas"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Liga_MX-Chivas-E31B23?style=flat-square&logo=cd-guadalajara&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/Real_Valladolid_CF_crest.svg" height="60" alt="Real Valladolid"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/La_Liga-Real_Valladolid-58165F?style=flat-square&logo=la-liga&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png" height="60" alt="Liverpool"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Premier_League-Liverpool-C8102E?style=flat-square&logo=liverpool&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1200px-Logo_of_AC_Milan.svg.png" height="60" alt="AC Milan"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Serie_A-AC_Milan-FB090B?style=flat-square&logo=ac-milan&logoColor=black" />
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Sport_Club_Corinthians_Paulista_crest.svg/960px-Sport_Club_Corinthians_Paulista_crest.svg.png" height="60" alt="Corinthians"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Brasileirão-Corinthians-000000?style=flat-square&logo=corinthians&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Yokohama_F_Marinos_logo.svg/250px-Yokohama_F_Marinos_logo.svg.png" height="60" alt="Yokohama FM"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/J1_League-Yokohama_F_Marinos-00388F?style=flat-square&logo=j-league&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br/><br/><br/><br/>
+<br/><br/>
 
 #### 🎧 Mi Actividad en Spotify
 
