@@ -74,42 +74,46 @@
 
 #### ⚽ Mis Equipos
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_del_Club_Deportivo_Guadalajara_%28M%C3%A9xico%29.svg" height="50" alt="Chivas"/>
-      </td>
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/Real_Valladolid_CF_crest.svg" height="50" alt="Real Valladolid"/>
-      </td>
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png" height="50" alt="Liverpool"/>
-      </td>
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1200px-Logo_of_AC_Milan.svg.png" height="50" alt="AC Milan"/>
-      </td>
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Yokohama_F_Marinos_logo.svg/250px-Yokohama_F_Marinos_logo.svg.png" height="50" alt="Yokohama FM"/>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  
+  <div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_del_Club_Deportivo_Guadalajara_%28M%C3%A9xico%29.svg" height="60" alt="Chivas"/>
+    <br/><br/>
+    <img src="https://img.shields.io/badge/LIGA_MX-Chivas-E31B23?style=flat-square&logo=cd-guadalajara&logoColor=white" />
+  </div>
+  <br/><br/>
+  <div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/Real_Valladolid_CF_crest.svg" height="60" alt="Real Valladolid"/>
+    <br/><br/>
+    <img src="https://img.shields.io/badge/LA_LIGA-Valladolid-58165F?style=flat-square&logo=la-liga&logoColor=white" />
+  </div>
+  <br/><br/>
+  <div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png" height="60" alt="Liverpool"/>
+    <br/><br/>
+    <img src="https://img.shields.io/badge/PL-Liverpool-C8102E?style=flat-square&logo=liverpool&logoColor=white" />
+  </div>
+  <br/><br/>
+  <div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1200px-Logo_of_AC_Milan.svg.png" height="60" alt="AC Milan"/>
+    <br/><br/>
+    <img src="https://img.shields.io/badge/SERIE_A-AC_Milan-FB090B?style=flat-square&logo=ac-milan&logoColor=black" />
+  </div>
+  <br/><br/>
+  <div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Yokohama_F_Marinos_logo.svg/250px-Yokohama_F_Marinos_logo.svg.png" height="60" alt="Yokohama FM"/>
+    <br/><br/>
+    <img src="https://img.shields.io/badge/J1-Yokohama-00388F?style=flat-square&logo=j-league&logoColor=white" />
+  </div>
+
 </div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Liga_MX-Chivas-red?style=for-the-badge&logo=cd-guadalajara&logoColor=white" />
-  <img src="https://img.shields.io/badge/La_Liga-Valladolid-purple?style=for-the-badge&logo=la-liga&logoColor=white" />
-  <img src="https://img.shields.io/badge/Premier_League-Liverpool-e31b23?style=for-the-badge&logo=liverpool&logoColor=white" />
-  <img src="https://img.shields.io/badge/Serie_A-AC_Milan-black?style=for-the-badge&logo=ac-milan&logoColor=red" />
-  <img src="https://img.shields.io/badge/J1_League-Yokohama-blue?style=for-the-badge&logo=j-league&logoColor=white" />
-</p>
-
-<br/>
+<br/><br/><br/><br/>
 
 #### 🎧 Mi Actividad en Spotify
 
 <div align="center">
-  <div style="margin-bottom: 15px;">
+  <div style="margin-bottom: 20px;">
     <b>🔴 En reproducción</b>
     <br/><br/>
     <img src="https://spotify-api-k5wc.onrender.com/spotify/now-playing.svg?t=timestamp" alt="Now Playing" />
@@ -120,11 +124,34 @@
   <br/>
   <br/>
 
-  <div>
+  <div style="margin-top: 10px;">
     <b>🏆 Mis Artistas Favoritos</b>
     <br/><br/>
     <img src="https://spotify-api-k5wc.onrender.com/spotify/top-artists.svg?t=timestamp" alt="Top Artists" />
   </div>
+
+  <br/>
+  <br/>
+
+  <div style="margin-top: 10px;">
+      <b>💿 Top Álbumes</b>
+      <br/><br/>
+      <img src="https://spotify-api-k5wc.onrender.com/spotify/top-albums.svg" alt="Top Albums" width="100%"/>
+  </div>
+
+  <br/>
+  <br/>
+
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr style="border: none; background: none;">
+      <!-- Top Canciones -->
+      <td align="center" valign="top" width="50%" style="border: none; padding-right: 10px;">
+        <b>🎵 Top Canciones</b>
+        <br/><br/>
+        <img src="https://spotify-api-k5wc.onrender.com/spotify/top-tracks.svg" alt="Top Tracks" width="100%"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
