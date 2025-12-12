@@ -101,6 +101,12 @@
   </div>
   <br/><br/>
   <div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Sport_Club_Corinthians_Paulista_crest.svg/960px-Sport_Club_Corinthians_Paulista_crest.svg.png" height="60" alt="Corinthians"/>
+    <br/><br/>
+    <img src="https://img.shields.io/badge/Brasileirão-Corinthians-000000?style=flat-square&logo=corinthians&logoColor=white" />
+  </div>
+  <br/><br/>
+  <div align="center">
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Yokohama_F_Marinos_logo.svg/250px-Yokohama_F_Marinos_logo.svg.png" height="60" alt="Yokohama FM"/>
     <br/><br/>
     <img src="https://img.shields.io/badge/J1_League-Yokohama-00388F?style=flat-square&logo=j-league&logoColor=white" />
@@ -133,21 +139,20 @@
   <br/>
   <br/>
 
-  <div style="margin-top: 10px;">
-      <b>💿 Top Álbumes</b>
-      <br/><br/>
-      <img src="https://spotify-api-k5wc.onrender.com/spotify/top-albums.svg" alt="Top Albums" width="100%"/>
-  </div>
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr style="border: none; background: none;">
+      <td align="center" valign="top" width="50%" style="border: none; padding-right: 10px;">
+        <img src="https://spotify-api-k5wc.onrender.com/spotify/top-albums.svg" alt="Top Albums" width="100%"/>
+      </td>
+    </tr>
+  </table>
 
   <br/>
   <br/>
 
   <table border="0" cellspacing="0" cellpadding="0">
     <tr style="border: none; background: none;">
-      <!-- Top Canciones -->
       <td align="center" valign="top" width="50%" style="border: none; padding-right: 10px;">
-        <b>🎵 Top Canciones</b>
-        <br/><br/>
         <img src="https://spotify-api-k5wc.onrender.com/spotify/top-tracks.svg" alt="Top Tracks" width="100%"/>
       </td>
     </tr>
@@ -169,10 +174,10 @@
   <table border="0">
     <tr>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=luisvad07&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="Luis Stats" height="180" />
+        <img src="https://github-readme-stats-one-bice.vercel.app/api?username=luisvad07&show_icons=true&theme=gruvbox&hide_border=true" height="180" />
       </td>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisvad07&theme=gruvbox&layout=compact&hide_border=true&langs_count=6" alt="Luis Lenguajes" height="180" />
+        <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=luisvad07&theme=gruvbox&layout=compact&hide_border=true&langs_count=6" height="180"/>
       </td>
     </tr>
   </table>
