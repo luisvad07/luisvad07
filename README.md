@@ -14,12 +14,52 @@
     <img src="https://img.shields.io/badge/Nombre_Completo-Luis_Eduardo_Bahena_Castillo-purple?style=flat-square&logo=google-maps&logoColor=white" />
     <img src="https://img.shields.io/badge/Ubicación-Cuernavaca,_Morelos-red?style=flat-square&logo=google-maps&logoColor=white" />
     <img src="https://img.shields.io/badge/Edad-22_Años-blue?style=flat-square&logo=cake&logoColor=white" />
-    <img src="https://img.shields.io/badge/Trabajo-SEMICMEXPF-green?style=flat-square&logo=workplace&logoColor=white" />
+    <img src="https://img.shields.io/badge/Trabajo-Imagen_Social-green?style=flat-square&logo=workplace&logoColor=white" />
   </p>
 
   <a href="mailto:luiseduardobahenacastillo007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+</div>
+
+---
+
+### 👤 Acerca de mí
+
+Soy un **Desarrollador de Software Multiplataforma** apasionado por crear soluciones tecnológicas que resuelven problemas reales. Me caracterizo por mi proactividad y capacidad de adaptación. Cuento con una sólida base en desarrollo web y móvil, siempre enfocado en el aprendizaje continuo y en aportar valor a través de código limpio y eficiente.
+
+---
+
+### 💼 Experiencia Profesional
+
+*   **Imagen Social** | *Desarrollador Web Jr* (2024 – 2025)
+    *   Desarrollo de aplicaciones gubernamentales escalables con **Laravel**.
+    *   Creación de interfaces con **Vue.js** y consumo de APIs en **Flutter**.
+    *   Mantenimiento y optimización SEO en plataformas **WordPress**.
+*   **Acción TI** | *Colaborador (Estadías)* (2023 – 2024)
+    *   Estrategias de contenido SEO y análisis de métricas digitales.
+    *   Personalización de sitios WordPress para mejorar la experiencia de usuario.
+
+---
+
+### 🚀 Proyectos Destacados
+
+<!-- Aquí puedes enlazar tus repositorios principales -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <strong>Sistema de Gestión Gubernamental</strong><br/>
+        Desarrollo de backend robusto con Laravel para manejo de datos escalables.<br/>
+        <code>PHP</code> <code>Laravel</code> <code>MySQL</code>
+      </td>
+      <td width="50%" align="center">
+        <strong>App Móvil Multiplataforma</strong><br/>
+        Implementación de servicios de autenticación y consumo de API REST.<br/>
+        <code>Flutter</code> <code>Dart</code> <code>REST API</code>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -91,6 +131,12 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
+#### 🌐 Idiomas
+<div align="center">
+  <img src="https://img.shields.io/badge/Inglés-A2-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Francés-A1-red?style=flat-square" />
+</div>
+
 ---
 
 ### 💜 Intereses Personales
@@ -136,49 +182,36 @@
   </table>
 </div>
 
-<br/><br/>
+<br/>
 
 #### 🎧 Mi Actividad en Spotify
 
 <div align="center">
-  <div style="margin-bottom: 20px;">
-    <b>🔴 En reproducción</b>
-    <br/><br/>
-    <img src="https://spotify-api-k5wc.onrender.com/spotify/now-playing.svg?t=timestamp" alt="Now Playing" />
-    <br/>
-    <sub>* Recarga la página para actualizar el estado</sub>
-  </div>
-
-  <br/>
-  <br/>
-
-  <div style="margin-top: 10px;">
-    <b>🏆 Mis Artistas Favoritos</b>
-    <br/><br/>
-    <img src="https://spotify-api-k5wc.onrender.com/spotify/top-artists.svg?t=timestamp" alt="Top Artists" />
-  </div>
-
-  <br/>
-  <br/>
 
   <table border="0" cellspacing="0" cellpadding="0">
     <tr style="border: none; background: none;">
       <td align="center" valign="top" width="50%" style="border: none; padding-right: 10px;">
-        <img src="https://spotify-api-k5wc.onrender.com/spotify/top-albums.svg" alt="Top Albums" width="100%"/>
+        <img src="https://spotify-api-k5wc.onrender.com/spotify/tracks.svg" alt="Top Tracks" width="100%"/>
       </td>
     </tr>
   </table>
-
-  <br/>
-  <br/>
 
   <table border="0" cellspacing="0" cellpadding="0">
     <tr style="border: none; background: none;">
       <td align="center" valign="top" width="50%" style="border: none; padding-right: 10px;">
-        <img src="https://spotify-api-k5wc.onrender.com/spotify/top-tracks.svg" alt="Top Tracks" width="100%"/>
+        <img src="https://spotify-api-k5wc.onrender.com/spotify/albums.svg" alt="Top Albums" width="100%"/>
       </td>
     </tr>
   </table>
+  
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr style="border: none; background: none;">
+      <td align="center" valign="top" width="50%" style="border: none; padding-right: 10px;">
+        <img src="https://spotify-api-k5wc.onrender.com/spotify/artists.svg" alt="Top Artists" width="100%"/>
+      </td>
+    </tr>
+  </table>
+  
 </div>
 
 ---
@@ -186,30 +219,16 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophies">
-    <img src="https://github-profile-trophies.vercel.app/?username=luisvad07&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" alt="Trofeos" />
-  </a>
-  
-  <br/><br/>
-
   <table border="0">
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
         <img src="https://github-readme-stats-one-bice.vercel.app/api?username=luisvad07&show_icons=true&theme=gruvbox&hide_border=true" height="180" />
       </td>
-      <td align="center" valign="middle">
+      <td align="center">
         <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=luisvad07&theme=gruvbox&layout=compact&hide_border=true&langs_count=6" height="180"/>
       </td>
     </tr>
   </table>
-
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisvad07&theme=gruvbox&hide_border=true" alt="Racha Actual" />
-
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luisvad07&theme=gruvbox&bg_color=282828&hide_border=true" alt="Snake Animation" />
-
 </div>
 
 ---
