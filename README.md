@@ -13,8 +13,8 @@
   <p>
     <img src="https://img.shields.io/badge/Nombre_Completo-Luis_Eduardo_Bahena_Castillo-purple?style=flat-square&logo=google-maps&logoColor=white" />
     <img src="https://img.shields.io/badge/Ubicación-Cuernavaca,_Morelos-red?style=flat-square&logo=google-maps&logoColor=white" />
-    <img src="https://img.shields.io/badge/Edad-22_Años-blue?style=flat-square&logo=cake&logoColor=white" />
-    <img src="https://img.shields.io/badge/Trabajo-Imagen_Social-green?style=flat-square&logo=workplace&logoColor=white" />
+    <img src="https://img.shields.io/badge/Edad-23_Años-blue?style=flat-square&logo=cake&logoColor=white" />
+    <img src="https://img.shields.io/badge/Trabajo-SEMICMEX-green?style=flat-square&logo=workplace&logoColor=white" />
   </p>
 
   <a href="mailto:luiseduardobahenacastillo007@gmail.com">
