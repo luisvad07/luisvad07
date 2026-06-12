@@ -32,36 +32,18 @@ Soy un **Desarrollador de Software Multiplataforma** apasionado por crear soluci
 
 ### 💼 Experiencia Profesional
 
-*   **Imagen Social** | *Desarrollador Web Jr* (2024 – 2025)
+*   **SEMICMEX** | *Desarrollador Web* (Mayo 2025 - Presente)
+    *   Desarrollo de aplicaciones y endpoints escalables con **Node JS** y el plugin de **Pug** con **Tailwind CSS**.
+    *   Creación de aplicaciones de escritorio con el framework de **React** y **Tauri**.
+    *   Mantenimiento y soporte de aplicaciones propias de la empresa.
+*   **Imagen Social** | *Desarrollador Web Jr* (Septiembre 2024 – Mayo 2025)
     *   Desarrollo de aplicaciones gubernamentales escalables con **Laravel**.
-    *   Creación de interfaces con **Vue.js** y consumo de APIs en **Flutter**.
-    *   Mantenimiento y optimización SEO en plataformas **WordPress**.
-*   **Acción TI** | *Colaborador (Estadías)* (2023 – 2024)
-    *   Estrategias de contenido SEO y análisis de métricas digitales.
+    *   Creación, mantenimiento y optimización SEO en plataformas **WordPress**.
+    *   Desarrollo de endpoints **REST** en Laravel para servicios de autenticación y manipulación de datos.
+*   **Acción TI** | *Colaborador (Estadías Profesionales)* (Julio 2023 – Julio 2024)
+    *   Estrategias de contenido **SEO** según el posicionamiento orgánico de páginas en motores de búsqueda.
+    *   Uso de herramientas métricas de analítica digital para monitorear el desempeño de las publicaciones de los blogs.
     *   Personalización de sitios WordPress para mejorar la experiencia de usuario.
-
----
-
-### 🚀 Proyectos Destacados
-
-<!-- Aquí puedes enlazar tus repositorios principales -->
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <strong>Sistema de Gestión Gubernamental</strong><br/>
-        Desarrollo de backend robusto con Laravel para manejo de datos escalables.<br/>
-        <code>PHP</code> <code>Laravel</code> <code>MySQL</code>
-      </td>
-      <td width="50%" align="center">
-        <strong>App Móvil Multiplataforma</strong><br/>
-        Implementación de servicios de autenticación y consumo de API REST.<br/>
-        <code>Flutter</code> <code>Dart</code> <code>REST API</code>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ---
 
 ### 🎓 Educación
@@ -82,7 +64,7 @@ Soy un **Desarrollador de Software Multiplataforma** apasionado por crear soluci
         <td align="center"><em>UTEZ</em></td>
       </tr>
       <tr>
-        <td align="center">💻 <strong>TSU</strong></td>
+        <td align="center">💻 <strong>Técnico Superior Universitario</strong></td>
         <td align="center">Desarrollo de Software Multiplataforma</td>
         <td align="center"><em>UTEZ</em></td>
       </tr>
@@ -126,15 +108,33 @@ Soy un **Desarrollador de Software Multiplataforma** apasionado por crear soluci
 
 #### 🗄️ Bases de Datos
 <div align="center">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </div>
 
 #### 🌐 Idiomas
 <div align="center">
   <img src="https://img.shields.io/badge/Inglés-A2-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Francés-A1-red?style=flat-square" />
+</div>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats-one-bice.vercel.app/api?username=luisvad07&show_icons=true&theme=gruvbox&hide_border=true" height="180" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=luisvad07&theme=gruvbox&layout=compact&hide_border=true&langs_count=6" height="180"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -147,36 +147,56 @@ Soy un **Desarrollador de Software Multiplataforma** apasionado por crear soluci
   <table>
     <tr>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_del_Club_Deportivo_Guadalajara_%28M%C3%A9xico%29.svg" height="60" alt="Chivas"/>
+        <img src="https://cdn.prod.website-files.com/68f550992570ca0322737dc2/68f6ad7cb403cc05b6f65cf1_cd-guadalajara-footballlogos-org.png" height="60" alt="Chivas"/>
         <br/><br/>
         <img src="https://img.shields.io/badge/Liga_MX-Chivas-E31B23?style=flat-square&logo=cd-guadalajara&logoColor=white" />
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/Real_Valladolid_CF_crest.svg" height="60" alt="Real Valladolid"/>
+        <img src="https://cdn.prod.website-files.com/68f550992570ca0322737dc2/68f785155ffe574233c5f198_real-valladolid-footballlogos-org.svg" height="60" alt="Real Valladolid"/>
         <br/><br/>
-        <img src="https://img.shields.io/badge/La_Liga-Real_Valladolid-58165F?style=flat-square&logo=la-liga&logoColor=white" />
+        <img src="https://img.shields.io/badge/La_Liga-Real_Valladolid-58165F?style=flat-square&logo=valladolid&logoColor=white" />
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png" height="60" alt="Liverpool"/>
+        <img src="https://cdn.prod.website-files.com/68f550992570ca0322737dc2/6a178f1a827b5502993ff572_68f5896aeac0eecdd6a3e7de_liverpool-fc-footballlogos-org.png" height="60" alt="Liverpool"/>
         <br/><br/>
         <img src="https://img.shields.io/badge/Premier_League-Liverpool-C8102E?style=flat-square&logo=liverpool&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://cdn.prod.website-files.com/68f550992570ca0322737dc2/6a178f3ce26efe4dcc7765c4_68f592fe9617d4298294417c_rb-leipzig-footballlogos-org.png" height="60" alt="RB Leipzig"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Bundesliga-RB_Leipzig-FFFFFF?style=flat-square&logo=leipzig&logoColor=black" />
+      </td>
+      <td align="center">
+        <img src="https://cdn.prod.website-files.com/68f550992570ca0322737dc2/68f59173c54aab3bb289682d_ac-milan-footballlogos-org.png" height="60" alt="AC Milan"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Serie_A-AC_Milan-FB090B?style=flat-square&logo=milan&logoColor=black" />
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1200px-Logo_of_AC_Milan.svg.png" height="60" alt="AC Milan"/>
+        <img src="https://cdn.prod.website-files.com/68f550992570ca0322737dc2/6a178f1447d8b03e7ae06b4c_68f6021fd7150da5cce2f3b8_losc-lille-footballlogos-org.png" height="60" alt="LOSC Lille"/>
         <br/><br/>
-        <img src="https://img.shields.io/badge/Serie_A-AC_Milan-FB090B?style=flat-square&logo=ac-milan&logoColor=black" />
+        <img src="https://img.shields.io/badge/Ligue_1-LOSC_Lille-1741D1?style=flat-square&logo=lille&logoColor=white" />
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Sport_Club_Corinthians_Paulista_crest.svg/960px-Sport_Club_Corinthians_Paulista_crest.svg.png" height="60" alt="Corinthians"/>
+        <img src="https://cdn.prod.website-files.com/68f550992570ca0322737dc2/68f605d5dd1ff78acec91360_feyenoord-footballlogos-org.svg" height="60" alt="Feyenoord"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Eredivisie-Feyenoord-E62525?style=flat-square&logo=feyenoord&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://cdn.prod.website-files.com/68f550992570ca0322737dc2/68f60a1ad5c3338dd7bb8ab7_sl-benfica-footballlogos-org.svg" height="60" alt="SL Benfica"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Primeira_Liga-SL_Benfica-961A1A?style=flat-square&logo=benfica&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://cdn.prod.website-files.com/68f550992570ca0322737dc2/6a178eeb4c5deaf6ef75d55b_68f6168e7555e3da185edaeb_corinthians-footballlogos-org.png" height="60" alt="Corinthians"/>
         <br/><br/>
         <img src="https://img.shields.io/badge/Brasileirão-Corinthians-000000?style=flat-square&logo=corinthians&logoColor=white" />
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Yokohama_F_Marinos_logo.svg/250px-Yokohama_F_Marinos_logo.svg.png" height="60" alt="Yokohama FM"/>
+        <img src="https://cdn.prod.website-files.com/68f550992570ca0322737dc2/68f6c7721cbf56d55ebf0398_yokohama-f-marinos-footballlogos-org.svg" height="60" alt="Yokohama FM"/>
         <br/><br/>
-        <img src="https://img.shields.io/badge/J1_League-Yokohama_F_Marinos-00388F?style=flat-square&logo=j-league&logoColor=white" />
+        <img src="https://img.shields.io/badge/J1_League-Yokohama_F_Marinos-00388F?style=flat-square&logo=yokohamalogoColor=white" />
       </td>
     </tr>
   </table>
@@ -212,23 +232,6 @@ Soy un **Desarrollador de Software Multiplataforma** apasionado por crear soluci
     </tr>
   </table>
   
-</div>
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats-one-bice.vercel.app/api?username=luisvad07&show_icons=true&theme=gruvbox&hide_border=true" height="180" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=luisvad07&theme=gruvbox&layout=compact&hide_border=true&langs_count=6" height="180"/>
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
